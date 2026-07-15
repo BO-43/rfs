@@ -2,23 +2,35 @@
   "name": "One Go RFS V2",
   "short_name": "RFS V2",
   "description": "Map-based facility management system with pin tracking, zone filtering, and real-time site visibility across Qatar.",
-  "start_url": "./",
+  "start_url": "https://bo-43.github.io/rfs/",
+  "scope": "https://bo-43.github.io/rfs/",
   "display": "standalone",
   "background_color": "#0a0e1a",
   "theme_color": "#0a0e1a",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://emojiapi.dev/api/v1/1F4CD/512.png",
+      "src": "https://bo-43.github.io/rfs/rfs-favicon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "https://emojiapi.dev/api/v1/1F4CD/512.png",
+      "src": "https://bo-43.github.io/rfs/rfs-favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://bo-43.github.io/rfs/rfs-favicon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "https://bo-43.github.io/rfs/rfs-favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
-}
