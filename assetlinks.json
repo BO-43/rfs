@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.tsong.rfs",
+        "sha256_cert_fingerprints": ["F6:93:71:22:F4:89:91:0C:C8:95:AB:A6:16:FD:C5:C7:79:61:7A:9D:78:E1:DB:E5:2F:2F:23:B0:C2:AA:5B:16"]
+      }
+    }]
